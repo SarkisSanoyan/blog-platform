@@ -69,6 +69,7 @@ src/
 client/
 ├── blog/
 │   └── HomePage.jsx
+│   └── ...
 server/
 ├── app.js
 ├── config/
@@ -76,7 +77,7 @@ server/
 ├── routes/
 │   └── posts.js
 ├── models/
-    └── Post.js
+│   └── Post.js
 ├── products.json
 
 ```
